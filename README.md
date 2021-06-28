@@ -8,7 +8,7 @@ To show potential employers what I am capable of.
 * CSS
 
 ## Website
-https://tylinnlashay.github.io/Portfolio.Tylinn/
+
 
 ## Contribution
 Made with :heart: by Tylinn
